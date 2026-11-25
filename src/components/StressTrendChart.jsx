@@ -12,15 +12,15 @@ import {
 
 const dummyStressData = [
   { periode: "Minggu 1", skor: 42, zona: "Aman" },
-  { periode: "Minggu 2", skor: 58, zona: "Waspada" },
-  { periode: "Minggu 3", skor: 71, zona: "Tinggi" },
-  { periode: "Minggu 4", skor: 51, zona: "Waspada" },
+  { periode: "Minggu 2", skor: 58, zona: "Realistis" },
+  { periode: "Minggu 3", skor: 71, zona: "Menantang" },
+  { periode: "Minggu 4", skor: 51, zona: "Realistis" },
 ];
 
 export default function StressTrendData() {
   return (
     <div className="w-full rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
-      <h2 className="mb-3 text-base font-semibold text-slade-800">
+      <h2 className="mb-3 text-base font-semibold text-slate-800">
         Uji Grafik Skor Stres (Data Dummy)
       </h2>
 
