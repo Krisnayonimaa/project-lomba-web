@@ -10,8 +10,8 @@ Centang butir saat selesai, lalu tulis perubahan penting di `CHANGELOG.md`. Form
 - [x] Struktur dokumen proyek: `AGENTS.md`, `TASKS.md`, `CHANGELOG.md`, `docs/` (Satria, 25 Nov)
 - [ ] Tanya panitia: apakah library komponen (shadcn/ui) termasuk "template" yang dilarang (Semua)
 - [ ] Perbaiki `README.md` (saat ini UTF-16 dan hanya judul) (Satria)
-- [ ] `src/app/layout.js`: judul "UniPath", `lang="id"` (Krisna)
-- [ ] `StressTrendChart.jsx`: perbaiki `text-slade-800` menjadi `text-slate-800`; nama zona ikut token (Aman, Realistis, Menantang, Data terbatas) (Krisna)
+- [x] `src/app/layout.js`: judul "UniPath", `lang="id"` (Krisna, dikerjakan Satria, 25 Nov)
+- [x] `StressTrendChart.jsx`: perbaiki `text-slade-800` menjadi `text-slate-800`; nama zona ikut token (Aman, Realistis, Menantang, Data terbatas) (Krisna, dikerjakan Satria, 25 Nov)
 
 ## 1. Desain (Dika, 27 Nov)
 

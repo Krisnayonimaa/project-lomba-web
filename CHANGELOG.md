@@ -4,6 +4,7 @@ Format: tanggal, branch, lalu ringkasan. Baru di atas. Kategori: **Tambah**, **U
 
 ## 2026-11-25 · satria
 
+- **Perbaiki:** `layout.js`: judul "UniPath", deskripsi, dan `lang="id"`. `StressTrendChart.jsx`: `text-slade-800` menjadi `text-slate-800`, nama zona dummy menjadi Aman, Realistis, Menantang.
 - **Tambah:** struktur dokumen proyek: `TASKS.md`, `CHANGELOG.md`, dan `docs/` (`PRD.md`, `SPECS.md`, `ARCHITECTURE.md`, `DATABASE.md`, `TEST_PLAN.md`, `DEPLOY.md`).
 - **Ubah:** `AGENTS.md` kini memuat konteks UniPath, peta dokumen, dan aturan kerja. Blok aturan Next.js tetap ada.
 
@@ -15,7 +16,5 @@ Format: tanggal, branch, lalu ringkasan. Baru di atas. Kategori: **Tambah**, **U
 
 ## Bug yang diketahui, belum diperbaiki
 
-- `src/components/StressTrendChart.jsx`: kelas `text-slade-800` salah ketik (seharusnya `text-slate-800`).
-- `src/app/layout.js`: judul masih "Create Next App" dan `lang="en"`.
 - `README.md` berenkode UTF-16 dan hanya berisi judul.
 - Demo VPS berjalan dengan `next dev`, bukan build produksi.
